@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/user_p"
+        app:showAsAction="never"
+        android:title="服务器列表"/>
+    <!--<item-->
+        <!--android:id="@+id/write_p"-->
+        <!--app:showAsAction="never"-->
+        <!--android:title="发布"/>-->
+    <!--<item-->
+        <!--android:id="@+id/favo_p"-->
+        <!--app:showAsAction="never"-->
+        <!--android:title="收藏"/>-->
+
+</menu>
